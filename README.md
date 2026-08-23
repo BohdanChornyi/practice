@@ -7,6 +7,13 @@ My first project for learning Git.
 - User greeting
 - Welcome message
 
+## Git command
+
+git status
+git add "file name"
+git commit -m "What changes"
+git log --oneline
+
 ## Author
 
 Learning Python and Git.
