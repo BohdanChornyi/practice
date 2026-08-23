@@ -1,3 +1,5 @@
 # main.py
 
-print("hello Git")
+name = input("Enter your name: ")
+
+print(f"Hello, {name.title()}!")
