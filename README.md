@@ -6,3 +6,7 @@ My first project for learning Git.
 
 - User greeting
 - Welcome message
+
+## Author
+
+Learning Python and Git.
