@@ -17,3 +17,7 @@ git log --oneline
 ## Author
 
 Learning Python and Git.
+
+## GitHub
+
+This repository is connected to GitHub.
