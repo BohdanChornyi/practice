@@ -13,6 +13,9 @@ git status
 git add "file name"
 git commit -m "What changes"
 git log --oneline
+git push - отправить локальный Git на Github
+git clone - git clone (скачать repository) → https://github - (откуда скачать) → "Git Clone Practice" - (как назвать новую локальную папку)
+git pull - обновить репозиторий
 
 ## Author
 
