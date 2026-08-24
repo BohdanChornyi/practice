@@ -28,7 +28,7 @@ Learning Python and Git.
 
 ## GitHub
 
-This repository is connected to GitHub.
+This repository is connected to GitHub from main.
 
 ## Pull Test
 
