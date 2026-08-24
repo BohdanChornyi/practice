@@ -17,6 +17,7 @@ git push - отправить локальный Git на Github
 git clone - git clone (скачать repository) → https://github - (откуда скачать) → "Git Clone Practice" - (как назвать новую локальную папку)
 git pull - обновить репозиторий
 
+git branch - создать ветку
 git switch -c feature-readme - git switch → (переключить ветку) - -c → (одновременно создать новую) - feature-readme → (имя новой ветки)
 
 ## Author
