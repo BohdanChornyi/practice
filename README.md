@@ -21,3 +21,7 @@ Learning Python and Git.
 ## GitHub
 
 This repository is connected to GitHub.
+
+## Pull Test
+
+This change will be downloaded with git pull.
