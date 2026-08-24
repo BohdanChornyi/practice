@@ -20,6 +20,8 @@ git pull - обновить репозиторий
 git branch - создать ветку
 git switch -c feature-readme - git switch → (переключить ветку) - -c → (одновременно создать новую) - feature-readme → (имя новой ветки)
 
+git merge feature-readme - находясь в main (или другом файле(через banch)), возьми изменения из feature-readme(имя файла) и объедини их с текущей веткой.
+
 ## Author
 
 Learning Python and Git.
